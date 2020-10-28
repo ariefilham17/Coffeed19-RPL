@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+            android:id="@+id/navigation_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home"/>
+
+    <item
+            android:id="@+id/navigation_kopipedia"
+            android:icon="@drawable/biji"
+            android:title="Kopipedia"/>
+
+    <item
+            android:id="@+id/navigation_status"
+            android:icon="@drawable/status"
+            android:title="Status Pemesanan"/>
+
+    <item
+            android:id="@+id/navigation_voucher"
+            android:icon="@drawable/vocer"
+            android:title="Voucher"/>
+
+    <item
+            android:id="@+id/navigation_bill"
+            android:icon="@drawable/bill"
+            android:title="E-bill"/>
+
+</menu>
